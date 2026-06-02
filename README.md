@@ -1,0 +1,2 @@
+# Analyzing-E--Learning-Platform-Purchases-using-MySQL
+This project demonstrates the use of MySQL to analyze purchase data from an online e-learning platform. The database stores information about learners, courses, and purchases in a structured relational format. SQL queries are used to extract valuable insights related to learner behavior, course demand, revenue generation, and sales performance.
